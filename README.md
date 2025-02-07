@@ -50,7 +50,7 @@ Willkommen auf meinem GitHub-Profil! Ich bin ein **Softwareentwickler**, spezial
 Ich habe eine **interne REST-API** zur **Automatisierung von datenbankgestützten Prozessen** zwischen drei Datenbanken entwickelt.  
 - **Ziel:** Reduzierung manueller Eingriffe und Optimierung von Abläufen  
 - **Backend:** Entwicklung mit **Spring Boot** zur Verarbeitung großer Datenmengen  
-- **Datenbanken:** PostgreSQL für effizientes Datenmanagement  
+- **Datenbanken:** Mischung aus PostgreSQL, BigQuery und MongoDB für effizientes Datenmanagement  
 - **Deployment:** Bereitstellung mit **Docker und GitLab CI/CD**
   
 📂 **Repository:** Aufgrund **datenschutzrechtlicher Bestimmungen** kann dieses Projekt nicht öffentlich bereitgestellt werden. Falls Sie weitere Informationen zu meiner Arbeit oder meinen Erfahrungen benötigen, stehe ich gerne für ein Gespräch zur Verfügung.
