@@ -52,8 +52,7 @@ Willkommen auf meinem GitHub-Profil! Ich bin ein **Softwareentwickler**, spezial
 ## 📫 Kontakt & Soziale Netzwerke  
 
 📧 **E-Mail:** [artem.brazhnyk@gmail.com](mailto:artem.brazhnyk@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/artem-brazhnyk](#)  
-💼 **Portfolio:** [artembrazhnyk.dev](#) *(Falls vorhanden)*  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/artem-brazhnyk-08b17a226/](#)  
 
 ---
 
