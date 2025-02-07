@@ -41,6 +41,21 @@ Willkommen auf meinem GitHub-Profil! Ich bin ein **Softwareentwickler**, spezial
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 ---
+
+## 🔥 Mein Top-Projekt  
+
+### **Automatisierung von datenbankgestützten Prozessen**  
+📌 **Technologien:** Java (Spring Boot), PostgreSQL, MongoDB, BigQuery, REST API, Docker, GitLab CI/CD, Lombok, JUnit, Mockito.  
+
+Ich habe eine **interne REST-API** zur **Automatisierung von datenbankgestützten Prozessen** zwischen drei Datenbanken entwickelt.  
+- **Ziel:** Reduzierung manueller Eingriffe und Optimierung von Abläufen  
+- **Backend:** Entwicklung mit **Spring Boot** zur Verarbeitung großer Datenmengen  
+- **Datenbanken:** PostgreSQL für effizientes Datenmanagement  
+- **Deployment:** Bereitstellung mit **Docker und GitLab CI/CD**
+- 📂 **Repository:** [Aufgrund **datenschutzrechtlicher Bestimmungen** kann dieses Projekt nicht öffentlich bereitgestellt werden. Falls Sie weitere Informationen zu meiner Arbeit oder meinen Erfahrungen benötigen, stehe ich gerne für ein Gespräch zur Verfügung.]
+
+---
+
 ## 🔥 Projekt: Reisepauschal-Suche  
 
 ### **📌 Projektname:** TravelPackageFinder  
