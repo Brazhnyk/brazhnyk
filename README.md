@@ -7,11 +7,10 @@ Willkommen auf meinem GitHub-Profil! Ich bin ein **Softwareentwickler**, spezial
 - 📌 Standort: Düsseldorf, Deutschland  
 - 🎓 Ausbildung: Fachinformatiker für Anwendungsentwicklung  
 - 🏢 Berufserfahrung: Peakwork GmbH  
-- 🎯 Fokus: Java, Spring Boot, Vue.js, Datenbanken (PostgreSQL, MongoDB)  
-- 🌱 Ich lerne aktuell mehr über **Microservices & Cloud-Technologien**  
+- 🎯 Fokus: Java, Spring Boot, Java Script, Vue.js, Datenbanken (PostgreSQL, MongoDB)  
+- 🌱 Ich lerne aktuell mehr über Angular
 - 📫 Kontakt: [artem.brazhnyk@gmail.com](mailto:artem.brazhnyk@gmail.com)  
 
----
 
 ## 🛠️ Tech Stack & Skills  
 
