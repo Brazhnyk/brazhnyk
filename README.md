@@ -56,7 +56,7 @@ TravelPackageFinder ist eine **Web-Anwendung zur Suche und Buchung von Reisepake
 - **Frontend mit Vue.js für eine interaktive Benutzererfahrung**  
 - **Deployment mit Docker & Kubernetes**  
 
-📂 **Repository:** [GitHub Link hier einfügen](#)  
+📂 **Repository:** [[GitHub Link hier einfügen](https://github.com/Brazhnyk/packagesearch.github.io)] 
 
 ---
 
