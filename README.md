@@ -41,6 +41,24 @@ Willkommen auf meinem GitHub-Profil! Ich bin ein **Softwareentwickler**, spezial
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 ---
+## 🔥 Projekt: Reisepauschal-Suche  
+
+### **📌 Projektname:** TravelPackageFinder  
+**Technologien:** Java (Spring Boot), JavaScript, HTML, CSS, MongoDB, REST API, Docker  
+
+**Beschreibung:**  
+TravelPackageFinder ist eine **Web-Anwendung zur Suche und Buchung von Reisepaketen**. Nutzer können Hotels und Flüge vergleichen und basierend auf ihren Präferenzen eine passende **Reisepauschale** buchen.  
+
+**Funktionen:**  
+- **Suche nach Flügen und Hotels** über externe APIs  
+- **Datenbankgestützte Verarbeitung von Reiseangeboten** (PostgreSQL)  
+- **REST-API zur Integration mit externen Buchungssystemen**  
+- **Frontend mit Vue.js für eine interaktive Benutzererfahrung**  
+- **Deployment mit Docker & Kubernetes**  
+
+📂 **Repository:** [GitHub Link hier einfügen](#)  
+
+---
 
 ## 📫 Kontakt & Soziale Netzwerke  
 
