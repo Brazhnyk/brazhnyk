@@ -47,14 +47,13 @@ Willkommen auf meinem GitHub-Profil! Ich bin ein **Softwareentwickler**, spezial
 **Technologien:** Java (Spring Boot), JavaScript, HTML, CSS, MongoDB, REST API, Docker  
 
 **Beschreibung:**  
-TravelPackageFinder ist eine **Web-Anwendung zur Suche und Buchung von Reisepaketen**. Nutzer können Hotels und Flüge vergleichen und basierend auf ihren Präferenzen eine passende **Reisepauschale** buchen.  
+TravelPackageFinder ist eine **Web-Anwendung zur Suche und Buchung von Reisepaketen**. Nutzer können Hotels und Flüge vergleichen und basierend auf ihren Präferenzen eine passende **Reisepauschale** als Angebot bekommen.  
 
 **Funktionen:**  
 - **Suche nach Flügen und Hotels** über externe APIs  
-- **Datenbankgestützte Verarbeitung von Reiseangeboten** (PostgreSQL)  
-- **REST-API zur Integration mit externen Buchungssystemen**  
-- **Frontend mit Vue.js für eine interaktive Benutzererfahrung**  
-- **Deployment mit Docker & Kubernetes**  
+- **Datenbankgestützte Verarbeitung von Reiseangeboten** (MongoDB)  
+- **Frontend mit JavaScript, CSS und HTML für eine interaktive Benutzererfahrung**  
+- **Deployment mit Docker**  
 
 📂 **Repository:** [[TravelPackageFinder](https://github.com/Brazhnyk/packagesearch.github.io)] 
 
