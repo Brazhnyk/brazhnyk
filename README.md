@@ -42,17 +42,10 @@ Willkommen auf meinem GitHub-Profil! Ich bin ein **Softwareentwickler**, spezial
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArtemBrazhnyk&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtemBrazhnyk&layout=compact&theme=radical)
-
----
-
 ## 📫 Kontakt & Soziale Netzwerke  
 
 📧 **E-Mail:** [artem.brazhnyk@gmail.com](mailto:artem.brazhnyk@gmail.com)  
-🔗 **LinkedIn:** [https://www.linkedin.com/in/artem-brazhnyk-08b17a226/](#)  
+🔗 **LinkedIn:** [linkedin.com/in/artem-brazhnyk-08b17a226](#)  
 
 ---
 
