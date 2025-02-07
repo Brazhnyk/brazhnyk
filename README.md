@@ -52,7 +52,7 @@ Ich habe eine **interne REST-API** zur **Automatisierung von datenbankgestützte
 - **Backend:** Entwicklung mit **Spring Boot** zur Verarbeitung großer Datenmengen  
 - **Datenbanken:** PostgreSQL für effizientes Datenmanagement  
 - **Deployment:** Bereitstellung mit **Docker und GitLab CI/CD**
-- 📂 **Repository:** [Aufgrund **datenschutzrechtlicher Bestimmungen** kann dieses Projekt nicht öffentlich bereitgestellt werden. Falls Sie weitere Informationen zu meiner Arbeit oder meinen Erfahrungen benötigen, stehe ich gerne für ein Gespräch zur Verfügung.]
+- 📂 **Repository:** Aufgrund **datenschutzrechtlicher Bestimmungen** kann dieses Projekt nicht öffentlich bereitgestellt werden. Falls Sie weitere Informationen zu meiner Arbeit oder meinen Erfahrungen benötigen, stehe ich gerne für ein Gespräch zur Verfügung.
 
 ---
 
